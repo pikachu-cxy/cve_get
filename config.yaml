@@ -1,0 +1,24 @@
+base_config:
+ github_token: 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
+ #发件人邮箱
+ my_sender: 2417071941@qq.com
+ #发件人授权码/密码
+ my_pass: xnwwrysfzbzgdigg
+ #收件人邮箱
+ recipients: simple.chen@shareworks.cn
+ #发件人smtp服务器地址
+ smtp_server: smtp.qq.com
+ #smtp端口号
+ smtp_port: 465
+ #资产xlsx表地址
+ xlsx_filename: D:\\朱宇轩工作交接\\交接文档\\内部资产梳理\\内部第三方组件整理.xlsx
+ #读取的表格号
+ sheet_number: Sheet2
+ #server酱
+ server: SCT209259TebYGGxo515324Kern6smhD4F
+
+database_config:
+  database_name: 123
+  database_pass: 123
+
+
